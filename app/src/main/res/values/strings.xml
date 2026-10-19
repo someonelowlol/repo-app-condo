@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ResidentSmart</string>
+    <string name="welcome_title">Bienvenido a ResidentSmart</string>
+    <string name="welcome_subtitle">Portal Inteligente de Gestión de Condominios</string>
+    <string name="tab_home">Inicio</string>
+    <string name="tab_payments">Pagos</string>
+    <string name="tab_bookings">Reservas</string>
+    <string name="tab_incidents">Incidentes</string>
+    <string name="tab_directory">Directorio</string>
+    <string name="tab_admin">Admin</string>
+</resources>

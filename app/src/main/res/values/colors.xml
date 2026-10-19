@@ -1,0 +1,9 @@
+<resources>
+    <color name="brand_blue">#0D305F</color>
+    <color name="brand_teal">#0D9488</color>
+    <color name="editorial_bg">#FDFCFB</color>
+    <color name="editorial_text">#1A1A1A</color>
+    <color name="editorial_muted">#8C857B</color>
+    <color name="editorial_border">#E5E1DA</color>
+    <color name="editorial_highlight">#F5F2ED</color>
+</resources>
